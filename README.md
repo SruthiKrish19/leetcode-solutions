@@ -9,3 +9,4 @@ This repository contains my solutions in JavaScript to various problems on [Leet
 | [1930](https://leetcode.com/problems/unique-length-3-palindromic-subsequences) | Unique Length-3 Palindromic Subsequences | [Python](https://github.com/SruthiKrish19/leetcode-solutions/blob/f5d3d870d4bf99a60f9534ae25bee110b51e48b1/Medium/1930_Unique_Length-3_Palindromic_Subsequences.py) |
 
 
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=sruthi19" alt="LeetCode Badges"/>
