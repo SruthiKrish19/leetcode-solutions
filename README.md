@@ -1,5 +1,5 @@
 # LeetCode Solutions
-This repository contains my solutions in JavaScript to various problems on [LeetCode](https://leetcode.com/u/sruthi19/).
+This repository contains my solutions to various problems on [LeetCode](https://leetcode.com/u/sruthi19/).
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sruthi19)
 
